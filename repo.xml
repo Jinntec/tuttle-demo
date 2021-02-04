@@ -1,0 +1,10 @@
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Tuttle Demo Data XAR</description>
+    <author/>
+    <website/>
+    <status>beta</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>tuttle-demo</target>
+</meta>
