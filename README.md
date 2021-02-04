@@ -1,2 +1,3 @@
 # tuttle-demo
-demo package for Tuttle git-integration
+
+Just contains some test data for Tuttle
