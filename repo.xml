@@ -7,5 +7,5 @@
     <copyright>true</copyright>
     <type>application</type>
     <target>tuttle-demo</target>
-    <permissions password="pw" user="nobody" group="nobody" mode="rw-rw-r--"/>
+    <permissions>password="pw" user="nobody" group="nobody" mode="rw-rw-r--"</permissions>
 </meta>
