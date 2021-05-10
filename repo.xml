@@ -6,6 +6,6 @@
     <license>GNU-LGPL</license>
     <copyright>true</copyright>
     <type>application</type>
-    <target>tuttle-demo</target>
+    <target>sample-collection</target>
     <permissions password="pw" user="nobody" group="nobody" mode="rw-rw-r--"/>
 </meta>
