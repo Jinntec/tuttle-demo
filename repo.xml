@@ -1,11 +1,11 @@
 <meta xmlns="http://exist-db.org/xquery/repo">
-    <description>Tuttle Sample Data XAR</description>
+    <description>Tuttle Sample: sample-collection-github</description>
     <author/>
     <website/>
     <status>beta</status>
     <license>GNU-LGPL</license>
     <copyright>true</copyright>
     <type>application</type>
-    <target>sample-collection</target>
+    <target>sample-collection-github</target>
     <permissions password="pw" user="nobody" group="nobody" mode="rw-rw-r--"/>
 </meta>
