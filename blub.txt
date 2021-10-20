@@ -1,1 +1,1 @@
-testdata
+<data><test>testdata</test></data>
